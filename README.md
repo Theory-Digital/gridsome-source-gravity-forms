@@ -7,7 +7,7 @@ This plugin connects to WordPress Gravity Forms, retrieves the given forms, and 
 
 ## Installation
 
-    # Install with NMP
+    # Install with NPM
     npm install gridsome-source-gravity-forms
 ## Configuration
 ### Default Configuration
