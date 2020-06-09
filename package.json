@@ -1,0 +1,26 @@
+{
+  "name": "gridsome-source-gravity-forms",
+  "version": "1.0.0",
+  "description": "Wordpress Gravity Forms Source for Gridsome",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gridsome",
+    "gravity forms",
+    "gridsome-plugin"
+  ],
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/Theory-Digital/gridsome-source-gravity-forms.git"
+  },
+  "author": "Theory Digital <hi@theorydigital.ca> (https://theorydigital.ca)",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "nanoid": "^3.1.9",
+    "oauth-signature": "^1.5.0"
+  }
+}
