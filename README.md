@@ -1,4 +1,4 @@
-# gridsome-gravity-forms
+# gridsome-source-gravity-forms
 Gravity Forms Source Plugin for Gridsome.
 
 Derived from [gatsby-source-gravityforms](https://github.com/robmarshall/gatsby-source-gravityforms) and converted for use in Gridsome
