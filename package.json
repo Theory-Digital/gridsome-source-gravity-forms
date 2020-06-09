@@ -1,7 +1,7 @@
 {
   "name": "gridsome-source-gravity-forms",
   "version": "1.0.0",
-  "description": "Wordpress Gravity Forms Source for Gridsome",
+  "description": "Wordpress Gravity Forms Source Plugin for Gridsome",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
