@@ -9,7 +9,8 @@
   "keywords": [
     "gridsome",
     "gravity forms",
-    "gridsome-plugin"
+    "gridsome-plugin",
+    "gridsome-source-plugin"
   ],
   "repository": {
     "type":"git",
